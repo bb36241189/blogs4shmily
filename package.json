@@ -1,0 +1,19 @@
+{
+  "name": "blogs4shmily",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bb36241189/blogs4shmily.git"
+  },
+  "author": "shmily",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bb36241189/blogs4shmily/issues"
+  },
+  "homepage": "https://github.com/bb36241189/blogs4shmily#readme",
+  "description": ""
+}
